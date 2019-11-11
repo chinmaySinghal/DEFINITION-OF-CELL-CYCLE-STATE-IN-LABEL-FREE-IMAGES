@@ -2,7 +2,7 @@
 
 # DEFINITION OF CELL CYCLE STATE IN LABEL FREE IMAGES
 
-![Explanation](FastFUCCI_HBEC76KT.PNG)
+![Explanation](Images/FastFUCCI_HBEC76KT.PNG)
 <img src="Images/fucci.gif" width="280"/> <img src="Images/fuccyr.gif" width="280"/> <img src="Images/fuccyg.gif" width="280"/> 
 
 
