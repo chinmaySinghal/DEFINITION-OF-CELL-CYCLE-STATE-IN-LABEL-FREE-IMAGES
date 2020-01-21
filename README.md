@@ -18,4 +18,5 @@ Many cellular process are modulated by or in concert with the progression of the
 
 
 **Team Leads:** Murat Can Çobanoğlu, PhD and Tadamoto Isogai, PhD, Lyda Hill
+
 **Team Members:** Chinmay Singhal, Puneet Mathur, Justine Keth, Chetan, Kate Kedziora, Kevin VanHorn, Phillipe Roudot
